@@ -1,0 +1,70 @@
+
+*{
+    background-color: rgb(236, 235, 215);
+}
+
+
+.image-container {
+
+    text-align:center;
+}
+
+.color-text {
+   color: orangered; text-align: center; font: bold;
+   padding: 12px; 
+}
+button {
+    color: rgb(113, 116, 52);           /* Text color */
+    border: 2px solid rgb(170, 180, 75);           /* Border: width, style, and color */
+    background-color: rgb(248, 252, 212);        /* Background color */
+    padding: 20px 20px;                       /* Padding for size */
+    font-size: 16px;                         /* Font size */
+    border-radius: 15px;                   /* Rounded corners */
+    cursor: pointer; margin-left: 22px;      /* Pointer cursor on hover */
+
+}
+.bot {
+    text-align: center; color: rgb(199, 182, 71); font-size: 80px;
+     background-color: rgb(251, 255, 225);
+     border-radius: 4px; padding: 24px; margin: 17px; 
+     border: 2px solid  rgb(170, 180, 75)
+
+}
+.lasagna {
+text-align: center; color: rgb(255, 77, 32);
+font-weight: 800; font-size: 80px; text-decoration-line: underline;
+}
+.image2 {
+    text-align: center; margin: 42px;
+}
+.ceviche1 {
+    text-align: center; color: rgb(61, 152, 175);
+font-weight: 800; font-size: 80px; text-decoration-line: underline;
+}
+
+.mpoce {
+    text-align: center; color: rgb(156, 157, 73);
+     text-decoration-line: underline; font-weight: 800; font-size: 80px
+}
+
+.imagen,.image3 {
+   text-align: center; 
+   height: auto;margin: 42px;
+}
+
+.content1 {
+    color: coral;border: 2px solid rgb(176, 127, 67);
+     display: inline-block;font-family: Verdana, "Geneva", Tahoma, sans-serif;
+     padding: 20px;
+}
+.content3{
+    color: rgb(194, 194, 67);
+     font-family: Verdana, "Geneva", Tahoma, sans-serif;
+     border: 2px solid rgb(144, 152, 72); display: inline-block; padding: 20px;
+}
+.content2 { color: rgb(62, 179, 179);
+    border: 2px solid rgb(71, 151, 147); display: inline-block;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    padding: 20px;
+}
+
